@@ -1,5 +1,6 @@
-body {
-  font-family: "Noto Sans Bengali", "Poppins", "Arial", "Helvetica", sans-serif;
+* {
+  font-family: "Noto Sans Bengali", "Siyam Rupali" "Poppins", "Arial",
+    "Helvetica", sans-serif;
 }
 
 /* fonts properties */
@@ -27,10 +28,10 @@ body {
   font-style: normal;
 }
 
-.noto-sans-bengali-<uniquifier > {
+.noto-sans-bengali {
   font-family: "Noto Sans Bengali", serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: 60;
   font-style: normal;
-  font-variation-settings: "wdth" 100;
+  font-variation-settings: "width" 100;
 }
